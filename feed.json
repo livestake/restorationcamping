@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Restoration Camping",
+    "description": "",
+    "home_page_url": "https://livestake.github.io/restorationcamping",
+    "feed_url": "https://livestake.github.io/restorationcamping/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "paul"
+    },
+    "items": [
+        {
+            "id": "https://livestake.github.io/restorationcamping/coming-soon.html",
+            "url": "https://livestake.github.io/restorationcamping/coming-soon.html",
+            "title": "Coming Soon",
+            "summary": "This site is under development.",
+            "content_html": "<p>This site is under development.</p>",
+            "author": {
+                "name": "paul"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-26T20:54:54-07:00",
+            "date_modified": "2026-04-26T20:54:54-07:00"
+        }
+    ]
+}

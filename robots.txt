@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://livestake.github.io/restorationcamping/sitemap.xml
